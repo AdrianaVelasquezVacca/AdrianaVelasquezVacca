@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AdrianaVelasquezVacca
-- 👀 I’m interested in marine biology and conservation biology
-- 🌱 I’m currently using/learning R.
-- 💞️ I’m looking to collaborate on any conservation biology projects
 - 📫 How to reach me: adrianavelasquezvacca@gmail.com
 
 <!---
